@@ -23,9 +23,10 @@ depends: [
   "easy-format"  {>= "1.2.0"}
   "ocamlfind"    {build}
   "ounit"        {test}
-  "utop"         {>= "1.17"}
+  "utop"         {= "1.19.3"}
   "BetterErrors" {>= "0.0.1"}
   "menhir"       {= "20170101"}
+  "atdgen"       {= "1.6.0"}
   "merlin"
   "merlin_extend"
 ]
