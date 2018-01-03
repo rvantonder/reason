@@ -27,6 +27,7 @@ depends: [
   "BetterErrors" {>= "0.0.1"}
   "menhir"       {= "20170101"}
   "atdgen"       {= "1.6.0"}
+  "cppo_ocamlbuild"
   "merlin"
   "merlin_extend"
 ]
